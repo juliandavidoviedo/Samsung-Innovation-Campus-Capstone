@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/81843cd4-cf8c-4ddd-8848-431e55d7eec9)
+
 # Samsung-Innovation-Campus-Capstone
 Capstone Project para Búsqueda Rápida de Convocatorias en SECOP II
 **Introducción**
